@@ -2,27 +2,68 @@
     margin: 0;
     
 }
+
+
 nav{
     background-color: rgb(38, 91, 170);
     border: rgba(0, 0, 0, 0.39) 5px solid;
     padding: 2%;
     font-size: 150%;
-    border-color: rgba(255, 255, 0, 0.479);
+    border-color:rgba(255, 255, 0, 0.719);
+    border-style: double;
     border-radius: 10px;
-    box-shadow: rgba(0, 0, 0, 0.466) 5px 5px 5px 5px;
+    box-shadow: rgba(0, 0, 0, 0.582) 5px 5px 5px 5px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
     text-align: center;
+}
+
+
+
+section{
+    background-color: rgb(224, 95, 218);
+    border-color:rgba(255, 255, 0, 0.719);
+    border-style: double;
+    
+}
+
+.dixneufs{
+    text-align: center;
+    margin-top: 3%;
     text-decoration: underline;
 }
 
+.titleTigre{
+    text-decoration: underline;
+    border: pink solid;
+    margin-left: 5%;
+    margin-bottom: 1%;
+    margin-top: 2%;
+}
 
-
-section {
+.tigreDiv{
+    border: solid green;
+    position: relative;
+    display: flex;
     
-text-align: center;
-text-decoration: underline;
-background-color: rgb(224, 95, 218);
 
+}
+
+.tigreImg{
+    float: left;
+    background-color: rgb(224, 95, 218);
 
     
 }
+
+.tigreTxt p{
+    margin-right: 5%;
+    border: solid red;
+    margin-top: 2%;
+}
+     
+
+
+
+
+
