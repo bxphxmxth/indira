@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    background-color: rgb(224, 95, 218);
+}
+nav{
+    background-color: rgb(38, 91, 170);
+    border: rgba(0, 0, 0, 0.39) 5px solid;
+    padding: 2%;
+    font-size: 150%;
+    border-color: rgba(255, 255, 0, 0.479);
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.466) 5px 5px 5px 5px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
