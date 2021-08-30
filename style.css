@@ -18,7 +18,7 @@ nav{
     text-align: center;
 }
 
-
+/* section2 panthere */
 
 section{
     background-color: rgb(224, 95, 218);
@@ -49,9 +49,12 @@ section{
 
 }
 
-.tigreImg{
+.panthereImg{
     float: left;
     background-color: rgb(224, 95, 218);
+    width: 300px;
+    height: 350px;
+    margin-left: 3%;
 
     
 }
@@ -61,6 +64,8 @@ section{
     border: solid red;
     margin-top: 2%;
 }
+
+
      
 
 
