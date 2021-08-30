@@ -20,19 +20,12 @@ nav{
 }
 
 
-.card-deck{
-    margin-top: 5%;
-    background-color: pink;
-    
+.majeures{
+    margin-top: 3%;
+    text-align: center;
+    text-decoration: underline;
 }
 
-.tigre{
-   border: red solid;
-   height: 400px;
-   width: 10%;
-   
-}
-
-.card{
-     width: 5%;
+.row{
+    margin-top: 3%;
 }
