@@ -1,22 +1,27 @@
 
 
 body{
-    background-color: pink;
+    background-color: pink !important;
+    font-family: 'Raleway', sans-serif ;
+    
 }
 
 
 nav{
-    background-color: rgb(38, 91, 170);
+    background-color: rgb(74, 103, 146);
     border: rgba(0, 0, 0, 0.39) 5px solid;
     padding: 2%;
     font-size: 150%;
-    border-color:rgba(255, 255, 0, 0.719);
+    border-color:rgba(240, 240, 38, 0.719);
     border-style: double;
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.582) 5px 5px 5px 5px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-decoration: underline;
     text-align: center;
+    font-family: 'Raleway', sans-serif !important;
+    font-size: 50px;
+    font-weight: bold;
 }
 
 
