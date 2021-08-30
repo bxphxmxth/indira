@@ -23,5 +23,16 @@ nav{
 .card-deck{
     margin-top: 5%;
     background-color: pink;
+    
 }
 
+.tigre{
+   border: red solid;
+   height: 400px;
+   width: 10%;
+   
+}
+
+.card{
+     width: 5%;
+}
