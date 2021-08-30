@@ -1,6 +1,7 @@
-*{
-    margin: 0;
-    
+
+
+body{
+    background-color: pink;
 }
 
 
@@ -18,57 +19,9 @@ nav{
     text-align: center;
 }
 
-/* section2 panthere */
 
-section{
-    background-color: rgb(224, 95, 218);
-    border-color:rgba(255, 255, 0, 0.719);
-    border-style: double;
-    
+.card-deck{
+    margin-top: 5%;
+    background-color: pink;
 }
-
-.dixneufs{
-    text-align: center;
-    margin-top: 3%;
-    text-decoration: underline;
-}
-
-.titleTigre{
-    text-decoration: underline;
-    border: pink solid;
-    margin-left: 5%;
-    margin-bottom: 1%;
-    margin-top: 2%;
-}
-
-.tigreDiv{
-    border: solid green;
-    position: relative;
-    display: flex;
-    
-
-}
-
-.panthereImg{
-    float: left;
-    background-color: rgb(224, 95, 218);
-    width: 300px;
-    height: 350px;
-    margin-left: 3%;
-
-    
-}
-
-.tigreTxt p{
-    margin-right: 5%;
-    border: solid red;
-    margin-top: 2%;
-}
-
-
-     
-
-
-
-
 
