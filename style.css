@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    background-color: rgb(224, 95, 218);
+    
 }
 nav{
     background-color: rgb(38, 91, 170);
@@ -12,4 +12,17 @@ nav{
     box-shadow: rgba(0, 0, 0, 0.466) 5px 5px 5px 5px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
+    text-decoration: underline;
+}
+
+
+
+section {
+    
+text-align: center;
+text-decoration: underline;
+background-color: rgb(224, 95, 218);
+
+
+    
 }
