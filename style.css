@@ -27,10 +27,17 @@ nav{
     font-weight: bold;
 }
 
+a:hover{
+    border: solid #ffc0cb88!important;
+    color: black !important;
+    padding: 5px;
+    border-radius: 5px;
+}
+
 .row{
-    border: red solid;
    
 }
+
 
 
 .croixM{
