@@ -27,11 +27,14 @@ nav{
     font-weight: bold;
 }
 
+
+
 a:hover{
-    border: solid #ffc0cb88!important;
+    /* border: solid #ffc0cb88!important; */
     color: black !important;
-    padding: 5px;
     border-radius: 5px;
+    
+
 }
 
 .row{
@@ -45,10 +48,12 @@ a:hover{
     width: 100%;
     justify-content: space-around;
     font-size: 30px;
+    
 }
 
 .croix{
     color: black;
+    
     
 }
 
@@ -98,10 +103,23 @@ li{
     text-align: center;
 }
 
+img{
+    filter: brightness(120%);
+}
+
 img:hover{
 
-    transform: scale(1.1);
-    transition: transform .5s;
-    border: solid black 10px;
-
+   /* Brightness-zoom Container */
+  
+    
+     transform: scale(1.1);
+     transition: transform 2s, filter 1.5s ease-in-out;
+     transform-origin: center center;
+     filter: brightness(120%);
 }
+   
+
+  
+  
+
+
