@@ -27,9 +27,17 @@ nav{
     font-weight: bold;
 }
 
-.indira{
-    
+a:hover{
+    border: solid #ffc0cb88!important;
+    color: black !important;
+    padding: 5px;
+    border-radius: 5px;
 }
+
+.row{
+   
+}
+
 
 
 .croixM{
@@ -88,4 +96,12 @@ border-top:black solid 1px !important}
 
 li{
     text-align: center;
+}
+
+img:hover{
+
+    transform: scale(1.1);
+    transition: transform .5s;
+    border: solid black 10px;
+
 }
